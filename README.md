@@ -12,7 +12,7 @@ This is a Flask-based booking system that allows users to upload CSV data, manag
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/mukeshsingh8989/booking_app.git
    cd flask-booking-system
    ```
 
